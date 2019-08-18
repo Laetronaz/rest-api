@@ -1,0 +1,16 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "rest-api with okta",
+  "main": "index.js",
+  "repository": "https://github.com/Laetronaz/rest-api.git",
+  "author": "Laetronaz <michelwarcraft@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
